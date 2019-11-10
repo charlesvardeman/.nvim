@@ -16,6 +16,7 @@ Plug 'tpope/vim-fugitive' " Git integration with vim
 Plug 'tpope/vim-surround' " Helps with surrounding text
 Plug 'tpope/vim-repeat' " Enable Repeating of plugin maps
 Plug 'Thornycrackers-Forks/nord-vim' " Pretty colorscheme
+Plug 'itchyny/lightline.vim'
 Plug 'Valloric/YouCompleteMe' " Autocomplete
 Plug 'rbgrouleff/bclose.vim' " Ranger dep for neovim
 Plug 'francoiscabrol/ranger.vim'  " Ranger integration
